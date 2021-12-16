@@ -18,6 +18,12 @@
     "description": "The app used ARKit to capture the real world dimensions of the environment in a given frame. As the user draw lines on the the image, the distance between dots in converted into real world distance."
   },
   {
+    "title": "Customer Address Data Cleansing at scale.",
+    "link": "https://www.linkedin.com/pulse/how-use-elasticsearch-cleaning-customer-addresses-nav-dhuti/",
+    "date": "01-01-2020",
+    "description": "Address cleansing is an old and common problem for almost every business dealing with Customer Addresses. How about cleaning millions of customer addresses in seconds?"
+  },
+  {
     "title": "Helping next generation build a better credit score.",
     "link": "https://www.linkedin.com/posts/navdhuti_rbs-finanicalinclusion-deliotte-activity-6554798255497068545-JzNj",
     "date": "01-07-2019",
