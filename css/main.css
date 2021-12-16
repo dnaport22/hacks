@@ -1,0 +1,39 @@
+:root {
+    --main-color: #003200;
+    --sub-color: #d2be65;
+    --main-sub-color: #004000;
+}
+
+.navbar {
+    background: var(--main-color);
+    justify-content: center;
+    height: 60vh;
+}
+
+a.navbar-item {
+    color: var(--sub-color);
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+.navbar-brand {
+    flex-direction: column;
+    padding-top: 50px;
+    max-width: 60%;
+}
+
+p.navbar-sub-item {
+    font-size: 30px !important;
+    justify-content: center;
+    font-weight: lighter;
+    color: var(--sub-color);
+}
+
+.navbar-brand button {
+    width: 60px;
+    margin: 10px 10px 0 10px;
+    font-weight: bold;
+    color: var(--main-color);
+    background: var(--sub-color);
+    border: none;
+}
