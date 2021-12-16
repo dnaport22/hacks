@@ -6,7 +6,14 @@
     <link href="./css/main.css" rel="stylesheet"/>
 </head>
 <body>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <nav id="partialNav" style="display: none" class="navbar top">
+        <div class="navbar-brand top">
+            <a class="navbar-item top" href="#">
+                Nav Dhuti
+            </a>
+        </div>
+    </nav>
+    <nav id="fullNav" class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <a class="navbar-item" href="#">
                 Nav Dhuti
@@ -50,6 +57,17 @@
                     container.insertAdjacentHTML('beforeend', postContent(e))
                 })
             })
+
+        window.onscroll = () => {
+            let fullNav = document.getElementById("fullNav");
+            let partialNav = document.getElementById("partialNav");
+            if (document.body.scrollTop >= 200) {
+                partialNav.style.display = "flex";
+                fullNav.style.display = "none";
+            } else {
+                fullNav.style.display = "flex";
+            }
+        }
     </script>
 </body>
 </html>

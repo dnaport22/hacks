@@ -25,6 +25,15 @@ hr {
     overflow: hidden;
 }
 
+.top {
+    background: var(--main-color);
+    justify-content: flex-start;
+    overflow: hidden;
+    padding-top: 5px !important;
+    font-size: 30px !important;
+    position: fixed !important;
+}
+
 a.navbar-item {
     color: var(--sub-color);
     font-size: 60px;
