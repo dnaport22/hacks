@@ -60,6 +60,12 @@
     "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
   },
   {
+    "title": "Retail video analytics to understand in-store shopper's behaviour by processing real-time video data.",
+    "link": "https://docs.google.com/document/d/19t2BkL2cX6ZWsHzZ__gRzCG6eV4oM_xg-hgjMB8QTDM/edit?usp=sharing",
+    "date": "18-10-2018",
+    "description": " "
+  },
+  {
     "title": "Sustainability Champion Award for Elephant App",
     "link": "https://www.linkedin.com/posts/navdhuti_another-one-to-the-innovation-to-make-this-activity-6338705861501812736-Hf7X",
     "date": "10-07-2017",
@@ -74,6 +80,13 @@
   {
     "title": "Prescription scanning app - A smart medical assistant.",
     "link": "https://docs.google.com/presentation/d/1WHkkq7WtGhNL4SbVr-z-DLs-HaATw0PYjQf3_F4wCro/edit?usp=sharing",
-    "date": "31-06-2017"
+    "date": "31-06-2017",
+    "description": "Translating prescriptions to native language to help non-english speaking patients know facts and figures about the medication."
+  },
+  {
+    "title": "Student portal app - First startup pitch.",
+    "link": "https://drive.google.com/file/d/1oeb86uMm4AseE5jhL-DHEvoTSuDkIM5O/view?usp=sharing",
+    "date": "02-02-2015",
+    "description": "Making student portal easy to use and more accessible to Ealing, Hammersmith and West London college's students. This app was presented to the senior management of the college while I was an A levels, International Student."
   }
 ]
