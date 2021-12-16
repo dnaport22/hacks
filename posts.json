@@ -2,37 +2,43 @@
   {
     "title": "A chat with Strathclyde International Employment Group.",
     "link": "https://www.linkedin.com/posts/harryphillips-_international-employment-week-anna-selwood-activity-6783098525325529088-E0Pw",
-    "date": "01-04-2021",
+    "date": "19-04-2021",
     "description": "How we can maximise our international employability and utilise our time studying in the U.K. to the best of our abilities."
   },
   {
     "title": "Data Warehouse as code.",
     "link": "https://www.linkedin.com/pulse/building-blocks-data-warehouse-code-nav-dhuti/",
-    "date": "01-03-2021",
+    "date": "08-03-2021",
     "description": "A Data warehouse is one of the core pieces for any enterprise's big data strategy and this infrastructure is difficult to manage and hard to set up. So how can we manage a data warehouse as code or like infrastructure as code?"
+  },
+  {
+    "title": "HealthyHero - Social Calendar for nurses.",
+    "link": "https://healthyheroapp.com/",
+    "date": "13-04-2020",
+    "description": "Healthy Hero™  is a mobile app for healthcare staff to help you improve you improve your work-life balance, plan your annual leave, countdown to payday and see when your friends are off work."
   },
   {
     "title": "Using Augment Reality (ARKit) for size measurement for tailor-made clothes using.",
     "link": "https://sizeclick.com/",
-    "date": "01-04-2020",
+    "date": "16-04-2020",
     "description": "The app used ARKit to capture the real world dimensions of the environment in a given frame. As the user draw lines on the the image, the distance between dots in converted into real world distance."
   },
   {
     "title": "Customer Address Data Cleansing at scale.",
     "link": "https://www.linkedin.com/pulse/how-use-elasticsearch-cleaning-customer-addresses-nav-dhuti/",
-    "date": "01-01-2020",
+    "date": "24-01-2020",
     "description": "Address cleansing is an old and common problem for almost every business dealing with Customer Addresses. How about cleaning millions of customer addresses in seconds?"
   },
   {
     "title": "Helping next generation build a better credit score.",
     "link": "https://www.linkedin.com/posts/navdhuti_rbs-finanicalinclusion-deliotte-activity-6554798255497068545-JzNj",
-    "date": "01-07-2019",
+    "date": "09-07-2019",
     "description": "Won RBS financial inclusion hack at RBS HQ in Edinburgh.<br/><br/>MISSION: Help next generation to build a great credit score and enrich their financial literacy towards credit."
   },
   {
     "title": "Search based analytics.",
     "link": "https://www.linkedin.com/posts/navdhuti_hackathon-lookerdata-looker-activity-6539472993742004224-tV4q",
-    "date": "01-05-2019",
+    "date": "07-05-2019",
     "description": "It's never been easy asking the right question to your data while looking at a pre-prepared dashboard. I have just a added a pinch of Machine Learning to a Looker dashboard and it's taken the user experience to another level.<br/> <br/>A simple NLP query engine built for Looker on top of Looker API.Now I'm planning to plug the query engine into Alexa and Google Assistant for an experiment on <b>\"How Voice Assistants will change the future of Business Intelligence\"</b>."
   },
   {
@@ -44,25 +50,30 @@
   {
     "title": "Accessing cloud based services without the Internet.",
     "link": "https://www.linkedin.com/posts/navdhuti_google-googleoncampus-winning-activity-6496140183166021632-ocxF",
-    "date": "01-02-2019",
+    "date": "11-02-2019",
     "description": "Simplifying the search for information using Adel (accessing cloud-based services offline) - Won 2nd prize at the first BGN Google Hackathon. Outstanding team performance!"
   },
   {
     "title": "Waist size estimation using face.",
     "link": "https://www.linkedin.com/posts/navdhuti_analytics-data-ai-activity-6659722106042896384-CX_m",
-    "date": "01-11-2018",
+    "date": "17-11-2018",
     "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
   },
   {
     "title": "Sustainability Champion Award for Elephant App",
     "link": "https://www.linkedin.com/posts/navdhuti_another-one-to-the-innovation-to-make-this-activity-6338705861501812736-Hf7X",
-    "date": "01-07-2017",
+    "date": "10-07-2017",
     "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
   },
   {
     "title": "Green Apple (Gold Award) for Environmental Welfare - Elephant App",
     "link": "https://www.linkedin.com/posts/navdhuti_time-when-your-hard-work-gets-rewarded-and-activity-6335069025076277248-7zHF",
-    "date": "01-06-2017",
+    "date": "03-06-2017",
     "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
+  },
+  {
+    "title": "Prescription scanning app - A smart medical assistant.",
+    "link": "https://docs.google.com/presentation/d/1WHkkq7WtGhNL4SbVr-z-DLs-HaATw0PYjQf3_F4wCro/edit?usp=sharing",
+    "date": "31-06-2017"
   }
 ]
