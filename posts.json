@@ -1,0 +1,6 @@
+[
+  {
+    "title": "Search based analytics.",
+    "description": "It's never been easy asking the right question to your data while looking at a pre-prepared dashboard. I have just a added a pinch of Machine Learning to a Looker dashboard and it's taken the user experience to another level.\n\nA simple NLP query engine built for Looker on top of Looker API.\n\nNow I'm planning to plug the query engine into Alexa and Google Assistant for an experiment on \"How Voice Assistants will change the future of Business Intelligence\"."
+  }
+]

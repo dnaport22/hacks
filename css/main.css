@@ -2,12 +2,27 @@
     --main-color: #003200;
     --sub-color: #d2be65;
     --main-sub-color: #004000;
+    --sub-light: #fdf6d6;
+}
+
+body {
+    background: var(--sub-light);
+}
+
+hr {
+    border: 1px solid var(--sub-color);
+    margin-right: 60%;
+}
+
+.full {
+    border: 1px solid var(--sub-color);
+    margin-right: 20%;
 }
 
 .navbar {
     background: var(--main-color);
     justify-content: center;
-    height: 60vh;
+    overflow: hidden;
 }
 
 a.navbar-item {
@@ -20,6 +35,13 @@ a.navbar-item {
     flex-direction: column;
     padding-top: 50px;
     max-width: 60%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .navbar-brand {
+        max-width: none !important;
+        margin: 20px;
+    }
 }
 
 p.navbar-sub-item {
@@ -36,4 +58,15 @@ p.navbar-sub-item {
     color: var(--main-color);
     background: var(--sub-color);
     border: none;
+}
+
+.linkedin {
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+.container {
+    padding-top: 50px;
+    justify-content: center;
 }
