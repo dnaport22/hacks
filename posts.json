@@ -45,7 +45,7 @@
     "title": "Shoe detection in real time video feed.",
     "link": "https://www.linkedin.com/posts/navdhuti_yolo-machinelearing-objectdetection-activity-6505126825004408832-16KJ",
     "date": "01-03-2019",
-    "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
+    "description": "Real-time shoe detect using yolo v3 object detection model. This was a extension to Retail Video analytics project."
   },
   {
     "title": "Accessing cloud based services without the Internet.",
@@ -69,13 +69,13 @@
     "title": "Sustainability Champion Award for Elephant App",
     "link": "https://www.linkedin.com/posts/navdhuti_another-one-to-the-innovation-to-make-this-activity-6338705861501812736-Hf7X",
     "date": "10-07-2017",
-    "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
+    "description": "Awarded Sustainability Champion Award by EAUC for work on the Elephant App."
   },
   {
     "title": "Green Apple (Gold Award) for Environmental Welfare - Elephant App",
     "link": "https://www.linkedin.com/posts/navdhuti_time-when-your-hard-work-gets-rewarded-and-activity-6335069025076277248-7zHF",
     "date": "03-06-2017",
-    "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
+    "description": "Awarded Gold Award at Parliament House London for work on the Elephant App. "
   },
   {
     "title": "Prescription scanning app - A smart medical assistant.",
