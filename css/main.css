@@ -68,5 +68,17 @@ p.navbar-sub-item {
 
 .container {
     padding-top: 50px;
+    padding-bottom: 50px;
     justify-content: center;
+}
+
+.card {
+    margin: 20px;
+}
+
+.post-date {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    padding-right: 20px;
 }

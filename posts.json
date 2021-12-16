@@ -1,6 +1,20 @@
 [
   {
     "title": "Search based analytics.",
-    "description": "It's never been easy asking the right question to your data while looking at a pre-prepared dashboard. I have just a added a pinch of Machine Learning to a Looker dashboard and it's taken the user experience to another level.\n\nA simple NLP query engine built for Looker on top of Looker API.\n\nNow I'm planning to plug the query engine into Alexa and Google Assistant for an experiment on \"How Voice Assistants will change the future of Business Intelligence\"."
+    "link": "",
+    "date": "",
+    "description": "It's never been easy asking the right question to your data while looking at a pre-prepared dashboard. I have just a added a pinch of Machine Learning to a Looker dashboard and it's taken the user experience to another level.<br/> <br/>A simple NLP query engine built for Looker on top of Looker API.Now I'm planning to plug the query engine into Alexa and Google Assistant for an experiment on <b>\"How Voice Assistants will change the future of Business Intelligence\"</b>."
+  },
+  {
+    "title": "Accessing cloud based services without the Internet.",
+    "link": "",
+    "date": "",
+    "description": "Simplifying the search for information using Adel (accessing cloud-based services offline) - Won 2nd prize at the first BGN Google Hackathon. Outstanding team performance!"
+  },
+  {
+    "title": "Waist size estimation using face.",
+    "link": "https://www.linkedin.com/posts/navdhuti_analytics-data-ai-activity-6659722106042896384-CX_m",
+    "date": "01-11-2018",
+    "description": "<b>\"We are carrying monsters (smart phones) in your hands without utilising their full potential.\"</b><br/><br/>Built this algorithm in 2018 while building a Fashion Analytics stack. That time it was a 2D image where depth data was an issue. A weekend spent to utilise iPhone's TrueDepth sensing camera and here we are."
   }
 ]

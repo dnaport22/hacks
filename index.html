@@ -24,13 +24,32 @@
         </div>
     </nav>
     <div class="container">
-<!--        <section class="section">-->
-<!--            <h1 class="title">Section</h1>-->
-<!--            <h2 class="subtitle">-->
-<!--                A simple container to divide your page into <strong>sections</strong>, like the one you're currently-->
-<!--                reading.-->
-<!--            </h2>-->
-<!--        </section>-->
+        <div id="posts"></div>
     </div>
+    <script>
+        let postContent = (data) => {
+            let link = `'${data.link}'`;
+            return `
+                    <div class="card" onclick="window.open(${link}, '_target')">
+                    <section class="section">
+                        <p class="title is-4">${data.title}</p>
+                        <p class="subtitle is-6">${data.description}</p>
+                        <p class="is-6">${data.date}</p>
+                    </section>
+                    <footer class="card-footer">
+                        <a href="#" class="card-footer-item">More</a>
+                    </footer>
+                    </div>`
+        };
+
+        fetch('posts.json')
+            .then(response => response.json())
+            .then(json => {
+                let container = document.getElementById("posts");
+                json.forEach(e => {
+                    container.insertAdjacentHTML('beforeend', postContent(e))
+                })
+            })
+    </script>
 </body>
 </html>
